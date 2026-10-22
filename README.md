@@ -1,36 +1,34 @@
 # Yeoback · 여백
 
-### Make room with a clearer view of what is there.
+### Make room for your next project.
 
-A Mac workspace for understanding your files before you decide what to remove.
+A native Mac app for seeing where your storage goes and deciding what deserves to stay.
 
-[See the workbench](#a-clearer-view-before-a-big-decision) · [Meet the maker](https://github.com/EricEremos)
+![Yeoback 0.4.19: the current notebook-style Home screen, with free space, storage diagnosis and a route to review candidates.](assets/home-20261022.png)
 
-![Yeoback's light workbench showing sample files, their paths and review controls](assets/workbench.png)
+*Actual installed interface · version 0.4.19 (31) · captured 22 October 2026. Storage figures reflect one local scan; they are not a promised saving. In development; a public download is not available yet.*
 
-*Actual native Mac interface, captured with sample files. Yeoback is in development; a public download is not available yet.*
+**See the space. Understand the candidates. Make the decision.**
 
-## A clearer view before a big decision
+## A notebook for the space around your work
 
-Storage cleanup starts with a question: **what is this, and do I still need it?** Yeoback brings the file, its location and the review controls into one workspace, so that question has something concrete behind it.
+Projects accumulate: experiments, build copies, finished worktrees and files you may still need. Yeoback begins with a readable view of the disk, then gives you a place to investigate before acting.
 
-| Understand what is there | Review what you chose | Decide with context |
-| --- | --- | --- |
-| Search and filter a scoped view of your files. | Inspect the exact paths in your selection, including selected items hidden by a filter. | Review the proposed action before proceeding, then check the resulting state. |
+The current Home screen brings together free space, the scan date, a storage diagnosis and a route to review candidates. It distinguishes **known**, **unknown** and **not measured** storage, so an incomplete scan does not look like a complete answer.
 
-![Yeoback's dark workbench with the same sample-file workflow](assets/workbench-dark.png)
+The notebook pages and coloured tabs give that practical work a familiar place to live: Home, Storage, Growth and Settings.
 
 ## Why “Yeoback”?
 
-**여백** is the space around what matters. That idea shapes both the interface and the product: enough room to read, enough context to decide, and a clear distinction between a possible saving and space that has actually been recovered.
+**여백** is the space around what matters. I am building Yeoback around that idea: make room for the next piece of work while keeping enough context to protect what matters now.
 
-Moving a file to Trash does not immediately free its space. Yeoback's review process treats that distinction as part of the decision, rather than promising a bigger number than the result can support.
+A possible saving and recovered space are different things. Moving something to Trash does not immediately free its space; the product's language and review workflow need to respect that distinction.
 
-## What I am building
+## From the question to the finished detail
 
-I am developing Yeoback as a native Mac product, bringing together the file-review workflow, interface and checks around consequential actions. The light and dark workbenches above show the implemented application with sample data; they are not generated UI illustrations.
+Yeoback is my independent native Mac product. My work spans the product direction, notebook interface, implementation and checks around file-review decisions. I use ChatGPT for research, planning and building, and Claude for design refinement and finishing, with my own review throughout.
 
-This public repository is the product showcase. The implementation remains private while development and distribution work continue.
+This public repository presents the product. The implementation and personal file records remain private while development continues.
 
 ---
 
