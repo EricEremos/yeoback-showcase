@@ -1,34 +1,49 @@
-# Yeoback · 여백
+<p align="center"><strong>Yeoback · 여백</strong></p>
 
-### Make room for your next project.
+<h1 align="center">Make room.<br>Keep control.</h1>
 
-A native Mac app for seeing where your storage goes and deciding what deserves to stay.
+<p align="center">A native Mac app for understanding your storage before deciding what to clear.</p>
 
-[![Yeoback campaign: Make room for your next project, with the original notebook-style Mac Home screen.](assets/yeoback-figma-01-final-20261023.png)](assets/home-20261022.png)
+<p align="center"><a href="#see-the-space-understand-the-candidates">Explore the experience</a> · <a href="#development-status">Development status</a></p>
 
-*Campaign composed in Figma around the actual installed interface · version 0.4.19 (31) · captured 22 October 2026. Open the image to inspect the original screen. Storage figures reflect one local scan; they are not a promised saving. In development; a public download is not available yet.*
-
-**See the space. Understand the candidates. Make the decision.**
+[![Yeoback campaign framing the installed notebook-style Mac Home screen. Select it to inspect the original product capture.](assets/yeoback-figma-01-final-20261023.png)](assets/home-20261022.png)
 
 ## A notebook for the space around your work
 
-Projects accumulate: experiments, build copies, finished worktrees and files you may still need. Yeoback begins with a readable view of the disk, then gives you a place to investigate before acting.
+Experiments, build copies, finished worktrees and files you may still need: a working Mac gathers more than finished projects. Yeoback gives you a readable view of that space and a place to investigate what belongs there.
 
-The current Home screen brings together free space, the scan date, a storage diagnosis and a route to review candidates. It distinguishes **known**, **unknown** and **not measured** storage, so an incomplete scan does not look like a complete answer.
+## See the space. Understand the candidates.
 
-The notebook pages and coloured tabs give that practical work a familiar place to live: Home, Storage, Growth and Settings.
+**Start with the disk.** The Home screen brings together free space, the scan date and a storage diagnosis.
+
+**Look closer.** Follow the route to review candidates with the scan's context still in view. Known, unknown and not measured remain distinct, so an incomplete scan does not appear to be a complete answer.
+
+**Make the decision.** A potential saving is different from recovered space. Moving a file to Trash does not immediately free its storage; the review workflow and the wording need to respect that difference.
+
+The notebook pages and coloured tabs give each part of the work its place: **Home, Storage, Growth and Settings**.
 
 ## Why “Yeoback”?
 
-**여백** is the space around what matters. I am building Yeoback around that idea: make room for the next piece of work while keeping enough context to protect what matters now.
+**여백** is the space around what matters. That idea guides the product: make room for the next piece of work while keeping enough context to protect what matters now.
 
-A possible saving and recovered space are different things. Moving something to Trash does not immediately free its space; the product's language and review workflow need to respect that distinction.
+The notebook is part of that approach. It gives storage review a familiar, readable setting for decisions that deserve more than a large number and a cleanup button.
 
-## From the question to the finished detail
+## My work on Yeoback
 
-Yeoback is my independent native Mac product. My work spans the product direction, notebook interface, implementation and checks around file-review decisions. I use ChatGPT for research, planning and building, and Claude for design refinement and finishing, with my own review throughout.
+Yeoback is my independent native Mac product. My work spans the product direction, notebook interface, implementation and checks around file-review decisions. The connection between those parts matters: a scan result has to become an explanation a person can act on.
 
-This public repository presents the product. The implementation and personal file records remain private while development continues.
+## Development status
+
+Yeoback is in development; a public download is not available yet. This repository presents the product while its implementation and personal file records remain private.
+
+<details>
+<summary>About the screen and storage figures</summary>
+
+The campaign was composed in Figma around the installed interface, version **0.4.19 (31)**, captured on **22 October 2026**. Select the image to inspect the original Home screen.
+
+Storage figures reflect one local scan. They are not a promised saving or evidence of space recovered on another Mac.
+
+</details>
 
 ---
 
