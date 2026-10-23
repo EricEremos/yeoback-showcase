@@ -4,9 +4,9 @@
 
 A native Mac app for seeing where your storage goes and deciding what deserves to stay.
 
-![Yeoback 0.4.19: the current notebook-style Home screen, with free space, storage diagnosis and a route to review candidates.](assets/home-20261022.png)
+[![Yeoback campaign: Make room for your next project, with the original notebook-style Mac Home screen.](assets/yeoback-figma-01-final-20261023.png)](assets/home-20261022.png)
 
-*Actual installed interface · version 0.4.19 (31) · captured 22 October 2026. Storage figures reflect one local scan; they are not a promised saving. In development; a public download is not available yet.*
+*Campaign composed in Figma around the actual installed interface · version 0.4.19 (31) · captured 22 October 2026. Open the image to inspect the original screen. Storage figures reflect one local scan; they are not a promised saving. In development; a public download is not available yet.*
 
 **See the space. Understand the candidates. Make the decision.**
 
