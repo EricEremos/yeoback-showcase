@@ -6,9 +6,9 @@
 
 <p align="center"><a href="#see-the-space-understand-the-candidates">Explore the experience</a> · <a href="#development-status">Development status</a></p>
 
-<p align="center"><a href="assets/yeoback-promo-20261024.mp4"><img src="assets/yeoback-promo-20261024.gif" alt="Yeoback film in its notebook style: the free-space figure is circled, the legend explains that each written line is 50 GB, storage owners and the light and dark themes follow, and the review sheet waits for confirmation." width="100%"></a></p>
+<p align="center"><a href="assets/yeoback-promo-20261024.mp4"><img src="assets/yeoback-promo-20261024.gif" alt="Yeoback film as one open notebook: each page turn tapes in the real app, from the circled free space and the 50 GB-per-line legend to the storage owners, the light and dark settings and the clean-up sheet stamped Nothing moves until you say so." width="100%"></a></p>
 
-<p align="center"><sub>In development; no public download yet. Installed app v0.4.19, captured on 22 and 23 October 2026 from one local scan. Candidate sizes are estimates, nothing moves until you confirm, and files moved to Trash keep their space until the Trash is emptied.</sub><br><a href="assets/yeoback-promo-20261024.mp4">Watch the full film</a> · <a href="assets/yeoback-promo-20261024-poster.png">Still frame</a> · <a href="assets/yeoback-promo-20261024-manifest.json">Capture details</a></p>
+<p align="center"><sub>In development. Animated product screenshots of installed Yeoback 0.4.19, captured 23 Oct 2026, with folder-path rows removed. One local scan; an estimate is not recovered space. Cancel was pressed and nothing was deleted.</sub><br><a href="assets/yeoback-promo-20261024.mp4">Watch the full film</a> · <a href="assets/yeoback-promo-20261024-poster.png">Still frame</a> · <a href="assets/yeoback-promo-20261024-manifest.json">Capture details</a></p>
 
 ## A notebook for the space around your work
 
