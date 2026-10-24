@@ -6,19 +6,15 @@
 
 <p align="center"><a href="#see-the-space-understand-the-candidates">Explore the experience</a> · <a href="#development-status">Development status</a></p>
 
-[![Yeoback campaign framing the installed notebook-style Mac Home screen. Select it to inspect the original product capture.](assets/yeoback-figma-01-final-20261023.png)](assets/home-20261022.png)
-
-## Watch the product film
-
 <p align="center"><a href="assets/yeoback-promo-20261024.mp4"><img src="assets/yeoback-promo-20261024.gif" alt="Yeoback film in its notebook style: the free-space figure is circled, the legend explains that each written line is 50 GB, storage owners and the light and dark themes follow, and the review sheet waits for confirmation." width="100%"></a></p>
 
-[Watch the full film (MP4)](assets/yeoback-promo-20261024.mp4) · [Open the still frame](assets/yeoback-promo-20261024-poster.png) · [Capture and production details](assets/yeoback-promo-20261024-manifest.json)
-
-In development; no public download yet. Installed app v0.4.19, captured on 22 and 23 October 2026 from one local scan. Candidate sizes are estimates, nothing moves until you confirm, and files moved to Trash keep their space until the Trash is emptied.
+<p align="center"><sub>In development; no public download yet. Installed app v0.4.19, captured on 22 and 23 October 2026 from one local scan. Candidate sizes are estimates, nothing moves until you confirm, and files moved to Trash keep their space until the Trash is emptied.</sub><br><a href="assets/yeoback-promo-20261024.mp4">Watch the full film</a> · <a href="assets/yeoback-promo-20261024-poster.png">Still frame</a> · <a href="assets/yeoback-promo-20261024-manifest.json">Capture details</a></p>
 
 ## A notebook for the space around your work
 
 Experiments, build copies, finished worktrees and files you may still need: a working Mac gathers more than finished projects. Yeoback gives you a readable view of that space and a place to investigate what belongs there.
+
+[![Yeoback campaign framing the installed notebook-style Mac Home screen. Select it to inspect the original product capture.](assets/yeoback-figma-01-final-20261023.png)](assets/home-20261022.png)
 
 ## See the space. Understand the candidates.
 
