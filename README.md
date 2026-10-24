@@ -10,11 +10,11 @@
 
 ## Watch the product film
 
-<p align="center"><a href="assets/yeoback-promo-20261024.mp4"><img src="assets/yeoback-promo-20261024.gif" alt="Yeoback film framing the installed notebook-style Mac interface and retaining the distinction between estimated review candidates and freed space." width="100%"></a></p>
+<p align="center"><a href="assets/yeoback-promo-20261024.mp4"><img src="assets/yeoback-promo-20261024.gif" alt="Yeoback film in its notebook style: the free-space figure is circled, the legend explains that each written line is 50 GB, storage owners and the light and dark themes follow, and the review sheet waits for confirmation." width="100%"></a></p>
 
-[Watch the full MP4](assets/yeoback-promo-20261024.mp4) · [Open the still frame](assets/yeoback-promo-20261024-poster.png) · [Capture and production details](assets/yeoback-promo-20261024-manifest.json)
+[Watch the full film (MP4)](assets/yeoback-promo-20261024.mp4) · [Open the still frame](assets/yeoback-promo-20261024-poster.png) · [Capture and production details](assets/yeoback-promo-20261024-manifest.json)
 
-In development; no public download yet. Installed app v0.4.19 (31), captured on 22 October 2026. The 2.7 GB shown is an estimate of review candidates from one scan, not space already freed. Moving files to Trash does not immediately reclaim their storage.
+In development; no public download yet. Installed app v0.4.19, captured on 22 and 23 October 2026 from one local scan. Candidate sizes are estimates, nothing moves until you confirm, and files moved to Trash keep their space until the Trash is emptied.
 
 ## A notebook for the space around your work
 

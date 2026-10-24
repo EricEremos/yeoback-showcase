@@ -1,62 +1,82 @@
 {
-  "product": "Yeoback",
-  "edition": "2026-10-24",
-  "film": {
-    "duration_seconds": 24.0,
-    "width": 1280,
-    "height": 720,
-    "fps": 24,
-    "audio": "silent"
+ "product": "yeoback",
+ "edition": "2026-10-24 (latest film)",
+ "film": {
+  "duration_seconds": 23.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "the full film"
+ },
+ "production": {
+  "visual_author": "Claude, HyperFrames (HTML and GSAP rendered in Chrome)",
+  "principle": "Original product interface pixels are scaled, cropped and moved; campaign type and motion sit around them. No on-screen provenance labels; qualifications live here and beside the film."
+ },
+ "qualification": "In development; no public download yet. Installed app v0.4.19, captured on 22 and 23 October 2026 from one local scan. Candidate sizes are estimates, nothing moves until you confirm, and files moved to Trash keep their space until the Trash is emptied.",
+ "sources": {
+  "home": {
+   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/assets/yeoback-home-native-20261022.png",
+   "sha256": "2a100793e951e81465ce361bb1598e18d23ed3aedcc769f92d1a22f0e8bdd450",
+   "note": "original bytes; installed 0.4.19, 22 Oct 2026"
   },
-  "production": {
-    "visual_author": "Claude delivery, supplied 24 October 2026",
-    "integration": "Codex removed administrative on-screen provenance footers; real UI and material caveats retained.",
-    "transformations": [
-      "framing",
-      "cropping",
-      "scaling",
-      "camera motion",
-      "marketing type",
-      "illustrative animation"
-    ],
-    "ui_policy": "Real UI source pixels are not repainted. Overlays and composition do not imply observed interaction."
+  "storage": {
+   "source": "screencapture -l of the installed Yeoback 0.4.19 Storage tab, 23 Oct 2026 (raw kept in scratch, not shipped: it lists folder paths)",
+   "raw_sha256": "da529c77ce29623012e40d138d43ef2c0bd54fcac4b6bd15b08a03042ced1e54",
+   "cut": "rows y 174-342 removed between two ruling lines (folder-path list); other pixels exact",
+   "sha256": "82e98dae45cdd65c80870c55cb783ce7bf6114234ead4b96fc25ced5aca81fca"
   },
-  "capture_dates": {
-    "installed app capture": "2026-10-22"
+  "review": {
+   "source": "screencapture -l of the Clean up 8 items? confirmation sheet, 23 Oct 2026; Cancel pressed, nothing cleaned",
+   "raw_sha256": "ac837669119694a2704c6a488ae50a725d62e5011637d4d6127b31d1585af4de",
+   "cut": "rows y 650-706 removed (a temp-folder path); other pixels exact",
+   "sha256": "5682fb31e3cca2c419c16e050e81b0bbf3162a459f467ccaca4c5c34a42c4766"
   },
-  "sources_sha256": {
-    "yeoback-home-native-20261022.png": "2a100793e951e81465ce361bb1598e18d23ed3aedcc769f92d1a22f0e8bdd450"
+  "font": {
+   "source": "/Applications/Yeoback.app/Contents/Resources/Fonts/Caveat.ttf",
+   "licence": "Caveat, SIL OFL (bundled with the app)",
+   "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
   },
-  "context": "In development; no public download yet. Installed app v0.4.19 (31), captured on 22 October 2026. The 2.7 GB shown is an estimate of review candidates from one scan, not space already freed. Moving files to Trash does not immediately reclaim their storage.",
-  "limits": [
-    "Figures describe one local scan, not a promised saving on another Mac.",
-    "The film does not show a completed deletion or recovered disk space.",
-    "Implementation and personal file records remain private."
-  ],
-  "verification": {
-    "full_mp4_decode": "passed",
-    "decoded_frames": 576,
-    "source_pixel_checks": [
-      {
-        "t": 4.0,
-        "source": "yeoback-home-native-20261022.png",
-        "pixel_identical_visible_region": true
-      }
-    ],
-    "scope": "Checks attest decoded media and sampled source-pixel preservation, not product efficacy."
-  },
-  "assets": {
-    "assets/yeoback-promo-20261024.gif": {
-      "bytes": 2937082,
-      "sha256": "2e7c0025929172111911447a404210e452fab327026a1fb7d4ac8091904b5f02"
-    },
-    "assets/yeoback-promo-20261024.mp4": {
-      "bytes": 1255689,
-      "sha256": "1d177626c96cad57b967b8ecd97f6235efdc984422ad8490edc5275e1a354f0b"
-    },
-    "assets/yeoback-promo-20261024-poster.png": {
-      "bytes": 536991,
-      "sha256": "30ab8763e489cd69ac7f602a3466712eefc5c8af57fa42fa617f8d19f04f2f09"
-    }
+  "rev6": {
+   "home-light": {
+    "raw_sha256": "9fc4964b06baba6142018d0c1d79dd519292f133a5445070dfa069733499c97e",
+    "cut": "rows 1027-1137 removed (a growth line naming a folder, and the line above it), between ruling lines",
+    "captured": "installed Yeoback 0.4.19, Appearance Light, 23 Oct 2026"
+   },
+   "storage-light": {
+    "raw_sha256": "1b6775b40884bbb980aaedec332b0efc7e4d94201a8c1e18cd1ad21e6081bb7f",
+    "cut": "rows 174-342 removed (folder-path list)",
+    "captured": "Appearance Light, 23 Oct 2026"
+   },
+   "settings-light": {
+    "sha256": "b04e831e10497edb705838302df896a507b19dd09861f2f96a37cfa832c3f9ba",
+    "note": "no cut"
+   },
+   "settings-dark": {
+    "sha256": "4d82ae2d112925304558d71d845495a0157964ff3fcb88dd1908a06481764f2e",
+    "note": "no cut"
+   },
+   "review-dark": {
+    "note": "same as review.png: dark review sheet, temp path row removed; Cancel pressed"
+   },
+   "appearance": "switched Light for capture, restored to Dark afterwards; nothing cleaned"
   }
+ },
+ "files": {
+  "mp4": {
+   "path": "assets/yeoback-promo-20261024.mp4",
+   "bytes": 1913599,
+   "sha256": "7d1076d4508cc70211bf3dba150571118d60b510eedbaa7f37752bb4c210d777"
+  },
+  "gif": {
+   "path": "assets/yeoback-promo-20261024.gif",
+   "bytes": 6060652,
+   "sha256": "bf87eb8940f06cc3c425610ab810bf89cde8e23649a3ca37be03a1a1a8c16089"
+  },
+  "poster": {
+   "path": "assets/yeoback-promo-20261024-poster.png",
+   "bytes": 898646,
+   "sha256": "aa31b1a913eaeef20d18c21bf4ed39eed363b5f1eea09c822ba4aa4d061ac227"
+  }
+ }
 }
